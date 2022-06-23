@@ -1,10 +1,14 @@
 {
     "name": "nmikser/parse-vk-group",
+    "description": "This application parse VK group and send messages in telegram.",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nmikser\\ParseVkGroup\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "NikitaPilez",
