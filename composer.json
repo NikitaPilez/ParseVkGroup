@@ -1,0 +1,15 @@
+{
+    "name": "nmikser/parse-vk-group",
+    "autoload": {
+        "psr-4": {
+            "Nmikser\\ParseVkGroup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NikitaPilez",
+            "email": "pileznikita99@gmail.com"
+        }
+    ],
+    "require": {}
+}
